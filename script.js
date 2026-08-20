@@ -15,4 +15,4 @@ async function doFile(virtualFilename) {
 }
 
 // Usage Example
-await doFile('script.py');
+doFile('script.py');
